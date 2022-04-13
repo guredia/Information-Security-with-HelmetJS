@@ -1,6 +1,6 @@
-{
-        npm install --Helmet@3.21.3
+npm install --helmet@3.21.3
 
+{
 
 	"name": "fcc-infosec-challenges",	"version": "3.21.3",
 
